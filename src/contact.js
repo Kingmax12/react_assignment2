@@ -9,11 +9,12 @@ const Contact = () => {
       <a href="mailto:oyedeletope559@gmail.com">Send a mail</a>
       </div>
       <div>
-      <p> | Phone: +234-810-8799-150</p>
+      <p> | Phone: +2347075528987</p>
        <a href="https://wa.me/2347075528987">Send a message</a>
       </div>
     </div>
   );
 };
+
 
 export default Contact;
